@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "name": "Cosa-2",
+      "description": "example-1",
+      "price": "123",
+      "inStock": true,
+      "id": 2
+    },
+    {
+      "name": "Cosa-3",
+      "description": "example-1",
+      "price": "123",
+      "inStock": false,
+      "id": 3
+    },
+    {
+      "name": "Cosa-4",
+      "description": "example-1",
+      "price": "123",
+      "inStock": true,
+      "id": 4
+    },
+    {
+      "name": "Cosa-5",
+      "description": "example-1",
+      "price": "123",
+      "inStock": true,
+      "id": 5
+    }
+  ]
+}
